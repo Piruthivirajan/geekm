@@ -9,7 +9,7 @@ import { ReportComponent }  from './report.component';
 const appRouts: Routes=[
     {
         path:'',
-        component: HomeComponent 
+        component: AppComponent 
     }
     ,
      {
